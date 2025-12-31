@@ -74,10 +74,10 @@ Geographic and regional analysis to identify where corrective action is needed.
 ## 📸 Dashboard Preview
 
 ### Executive Overview
-screenshots/delivery performance.png
+
 
 ### Delivery Performance
-![Delivery Performance](screenshots/delivery_performance.png)
+![Delivery Performance](screenshots/deliveryperformance.png)
 
 ### Inventory & Demand
 ![Inventory & Demand](screenshots/inventory_demand.png)
