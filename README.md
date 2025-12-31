@@ -74,7 +74,7 @@ Geographic and regional analysis to identify where corrective action is needed.
 ## 📸 Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](screenshots/executiveoverview.png)
+![Executive Overview](screenshots/ExecutiveDashboard.png)
 
 
 ### Delivery Performance
