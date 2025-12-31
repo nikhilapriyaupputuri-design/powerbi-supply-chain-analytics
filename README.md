@@ -77,7 +77,7 @@ Geographic and regional analysis to identify where corrective action is needed.
 
 
 ### Delivery Performance
-![Delivery Performance](screenshots/deliveryperformance.png)
+![Delivery Performance](screenshots/delivery_performance.png)
 
 ### Inventory & Demand
 ![Inventory & Demand](screenshots/inventory_demand.png)
