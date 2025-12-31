@@ -74,17 +74,17 @@ Geographic and regional analysis to identify where corrective action is needed.
 ## 📸 Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](screenshots/executive_overview.png)
+![Executive Overview](screenshots/executiveoverview.png)
 
 
 ### Delivery Performance
-![Delivery Performance](screenshots/delivery performance.png)
+![Delivery Performance](screenshots/deliveryperformance.png)
 
 ### Inventory & Demand
-![Inventory & Demand](screenshots/inventory demand.png)
+![Inventory & Demand](screenshots/inventorydemand.png)
 
 ### Location & Root Cause
-![Location & Root Cause](screenshots/location_root_cause.png)
+![Location & Root Cause](screenshots/locationrootcause.png)
 
 ---
 
