@@ -112,5 +112,4 @@ This dashboard enables supply chain teams to:
 
 ---
 
-## 📎 Notes
-This project is intended for **portfolio and learning purposes**, demonstrating practical supply chain analytics and Power BI dashboard design.
+
